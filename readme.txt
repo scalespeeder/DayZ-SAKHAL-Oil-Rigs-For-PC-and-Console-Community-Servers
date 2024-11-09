@@ -2,7 +2,7 @@ DayZ Sakhal Oils Rig By EZ Rich & XMC For Console and PC xml json Mods Instructi
 
 These files spawn oil rigs, with loot, off the NW and SE Coast of the Sakhal main island, at "4952.83, 12224.41" & "13382.85, 6675.76"
 
-Limited Testing on PC Chernaus Local Server DAYZ Version 1.26 Nov 2024.
+Limited Testing on PC Sakhal Local Server DAYZ Version 1.26 Nov 2024.
 
 Created by AND BIG THANKS TO: EZ Rich ( terrellerich91#2154 on Discord).
 
